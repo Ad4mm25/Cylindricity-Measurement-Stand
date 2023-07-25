@@ -1,0 +1,37 @@
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\bin\../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\basic_string.h:6594:3:float std::__cxx11::stof(const string&, std::size_t*)	16	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\basic_string.h:6620:3:std::string std::__cxx11::to_string(unsigned int)	32	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\basic_string.h:6628:3:std::string std::__cxx11::to_string(long int)	40	static
+../Core/Src/Communication.cpp:77:6:void SendSingleChar(char)	16	static
+../Core/Src/Communication.cpp:91:6:void SendSentenceString(std::string)	24	static
+../Core/Src/Communication.cpp:108:13:std::string ReadMessage()	16	static
+../Core/Src/Communication.cpp:127:6:void StartProgram()	40	static
+../Core/Src/Communication.cpp:141:6:void GetCurrentPositions(std::string)	112	static
+../Core/Src/Communication.cpp:170:6:void StopProgram()	8	static
+../Core/Src/Communication.cpp:188:6:void GetMeasurementInfo(std::string)	16	static
+../Core/Src/Communication.cpp:241:6:void GetDestination(Stepper*, std::string)	40	static
+../Core/Src/Communication.cpp:255:6:void AxisLock(std::string)	16	static
+../Core/Src/Communication.cpp:281:6:void AxisUnlock(std::string)	16	static
+../Core/Src/Communication.cpp:311:6:void GetDoubleDestination(Stepper*, Stepper*, std::string)	96	static
+../Core/Src/Communication.cpp:332:6:void GetStartEnd(std::string)	160	static
+../Core/Src/Communication.cpp:361:6:void ZeroAxis(std::string)	16	static
+../Core/Src/Communication.cpp:392:6:void StartCalibration(std::string)	88	static
+../Core/Src/Communication.cpp:422:6:void SendCurrentPosition(double, double, double)	160	static
+../Core/Src/Communication.cpp:446:6:void SendCurrentPoint(unsigned int)	96	static
+../Core/Src/Communication.cpp:466:6:void SendingHandler()	8	static
+../Core/Src/Communication.cpp:501:6:void MessageHandler()	296	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\ext\string_conversions.h:63:2:)::_Save_errno::_Save_errno() [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	16	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\ext\string_conversions.h:64:2:)::_Save_errno::~_Save_errno() [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	16	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\ext\string_conversions.h:70:4:)::_Range_chk::_S_chk(_TRet, std::false_type) [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	16	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\ext\string_conversions.h:54:5:) [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	56	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\charconv.h:47:5:constexpr unsigned int std::__detail::__to_chars_len(_Tp, int) [with _Tp = unsigned int]	32	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\charconv.h:72:5:void std::__detail::__to_chars_10_impl(char*, unsigned int, _Tp) [with _Tp = unsigned int]	40	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\charconv.h:47:5:constexpr unsigned int std::__detail::__to_chars_len(_Tp, int) [with _Tp = long unsigned int]	32	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\charconv.h:72:5:void std::__detail::__to_chars_10_impl(char*, unsigned int, _Tp) [with _Tp = long unsigned int]	40	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\stl_iterator.h:1041:7:__gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container>::operator+(__gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type) const [with _Iterator = char*; _Container = std::__cxx11::basic_string<char>]	24	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\stl_iterator.h:984:9:__gnu_cxx::__normal_iterator<_Iterator, _Container>::__normal_iterator(const __gnu_cxx::__normal_iterator<_Iter, typename __gnu_cxx::__enable_if<std::__are_same<_Iter, typename _Container::pointer>::__value, _Container>::__type>&) [with _Iter = char*; _Iterator = const char*; _Container = std::__cxx11::basic_string<char>]	16	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\stl_iterator.h:978:7:__gnu_cxx::__normal_iterator<_Iterator, _Container>::__normal_iterator(const _Iterator&) [with _Iterator = char*; _Container = std::__cxx11::basic_string<char>]	16	static
+c:\st\stm32cubeide_1.11.2\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.win32_1.0.200.202301161003\tools\arm-none-eabi\include\c++\10.3.1\bits\stl_iterator.h:1056:7:const _Iterator& __gnu_cxx::__normal_iterator<_Iterator, _Container>::base() const [with _Iterator = char*; _Container = std::__cxx11::basic_string<char>]	16	static
+../Core/Src/Communication.cpp:547:1:void __static_initialization_and_destruction_0(int, int)	24	static
+../Core/Src/Communication.cpp:547:1:cpp)	8	static
+../Core/Src/Communication.cpp:547:1:cpp)	8	static

@@ -1,0 +1,37 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+basic_string.h:6594:3:float std::__cxx11::stof(const string&, std::size_t*)	1
+basic_string.h:6620:3:std::string std::__cxx11::to_string(unsigned int)	1
+basic_string.h:6628:3:std::string std::__cxx11::to_string(long int)	2
+Communication.cpp:77:6:void SendSingleChar(char)	1
+Communication.cpp:91:6:void SendSentenceString(std::string)	2
+Communication.cpp:108:13:std::string ReadMessage()	2
+Communication.cpp:127:6:void StartProgram()	1
+Communication.cpp:141:6:void GetCurrentPositions(std::string)	1
+Communication.cpp:170:6:void StopProgram()	1
+Communication.cpp:188:6:void GetMeasurementInfo(std::string)	6
+Communication.cpp:241:6:void GetDestination(Stepper*, std::string)	1
+Communication.cpp:255:6:void AxisLock(std::string)	5
+Communication.cpp:281:6:void AxisUnlock(std::string)	5
+Communication.cpp:311:6:void GetDoubleDestination(Stepper*, Stepper*, std::string)	1
+Communication.cpp:332:6:void GetStartEnd(std::string)	3
+Communication.cpp:361:6:void ZeroAxis(std::string)	5
+Communication.cpp:392:6:void StartCalibration(std::string)	3
+Communication.cpp:422:6:void SendCurrentPosition(double, double, double)	1
+Communication.cpp:446:6:void SendCurrentPoint(unsigned int)	1
+Communication.cpp:466:6:void SendingHandler()	7
+Communication.cpp:501:6:void MessageHandler()	16
+string_conversions.h:63:2:)::_Save_errno::_Save_errno() [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	1
+string_conversions.h:64:2:)::_Save_errno::~_Save_errno() [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	2
+string_conversions.h:70:4:)::_Range_chk::_S_chk(_TRet, std::false_type) [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	1
+string_conversions.h:54:5:) [with _TRet = float; _Ret = float; _CharT = char; _Base = {}]	4
+charconv.h:47:5:constexpr unsigned int std::__detail::__to_chars_len(_Tp, int) [with _Tp = unsigned int]	5
+charconv.h:72:5:void std::__detail::__to_chars_10_impl(char*, unsigned int, _Tp) [with _Tp = unsigned int]	3
+charconv.h:47:5:constexpr unsigned int std::__detail::__to_chars_len(_Tp, int) [with _Tp = long unsigned int]	5
+charconv.h:72:5:void std::__detail::__to_chars_10_impl(char*, unsigned int, _Tp) [with _Tp = long unsigned int]	3
+stl_iterator.h:1041:7:__gnu_cxx::__normal_iterator<_Iterator, _Container> __gnu_cxx::__normal_iterator<_Iterator, _Container>::operator+(__gnu_cxx::__normal_iterator<_Iterator, _Container>::difference_type) const [with _Iterator = char*; _Container = std::__cxx11::basic_string<char>]	1
+stl_iterator.h:984:9:__gnu_cxx::__normal_iterator<_Iterator, _Container>::__normal_iterator(const __gnu_cxx::__normal_iterator<_Iter, typename __gnu_cxx::__enable_if<std::__are_same<_Iter, typename _Container::pointer>::__value, _Container>::__type>&) [with _Iter = char*; _Iterator = const char*; _Container = std::__cxx11::basic_string<char>]	1
+stl_iterator.h:978:7:__gnu_cxx::__normal_iterator<_Iterator, _Container>::__normal_iterator(const _Iterator&) [with _Iterator = char*; _Container = std::__cxx11::basic_string<char>]	1
+stl_iterator.h:1056:7:const _Iterator& __gnu_cxx::__normal_iterator<_Iterator, _Container>::base() const [with _Iterator = char*; _Container = std::__cxx11::basic_string<char>]	1
+Communication.cpp:547:1:void __static_initialization_and_destruction_0(int, int)	5
+Communication.cpp:547:1:cpp)	1
+Communication.cpp:547:1:cpp)	1
